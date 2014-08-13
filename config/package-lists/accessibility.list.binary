@@ -1,0 +1,5 @@
+# add brltty support
+brltty
+libbrlapi0.5
+python-brlapi
+xbrlapi
