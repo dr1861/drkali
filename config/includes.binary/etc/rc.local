@@ -11,4 +11,6 @@
 #
 # By default this script does nothing.
 
+/usr/bin/killall brltty
+/sbin/brltty
 exit 0
